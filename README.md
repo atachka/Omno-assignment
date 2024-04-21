@@ -24,7 +24,7 @@ This repository contains code for integrating Stripe Payments into an Omno API N
     
 3. Run the app
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## How it Works
